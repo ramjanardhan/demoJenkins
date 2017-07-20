@@ -16,5 +16,6 @@
         <h4>welcome to jenkins dashboard</h4>
         <h5>checking</h5>
         <h5>git-hub with jenkins</h5>
+        <h5>git-hub with jenkins for seeing the build result</h5>
     </body>
 </html>
